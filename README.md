@@ -17,5 +17,6 @@
 | Network   | LSTM | 4x1 Pooling | Gray | Test Acc |
 | --------- | ---- | ----------- | ---- | -------- |
 | SimpleNet | Y    | Y           | Y    | 87.17%  |
-| ResNet50 | Y    | Y           | Y    | TODO  |
+| ResNeXt101 | Y    | Y           | Y    | TODO  |
 | SE-ResNet50-PReLU | Y    | Y           | Y    | TODO  |
+| SE-ResNeXt101-PReLU | Y    | Y           | Y    | TODO  |
